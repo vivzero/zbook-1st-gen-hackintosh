@@ -19,3 +19,4 @@
 - Display color is odd because of incompatible EDID.
 - Fan noise is louder than Windows.
 - Hibernation doesn't work.
+- CMOS checksum error occurs sometimes but setting is not lost.

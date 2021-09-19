@@ -8,6 +8,7 @@
 - LCD: B156HAN01.1 (AUO11ED)
 - SSD: Samsung 850 PRO
 - WLAN: Centrino N 6235
+- WWAN: HP lt4112
 - Audio: IDT 92HD91BXX
 - BIOS: Latest
 

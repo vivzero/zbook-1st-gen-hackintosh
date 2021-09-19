@@ -16,3 +16,4 @@
 
 ## Issues
 - Display color is odd because of incompatible EDID.
+- Fan noise is louder than Windows.

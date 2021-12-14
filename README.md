@@ -20,7 +20,7 @@
 - Display color is odd because of incompatible EDID.
 - Fan noise is louder than Windows.
 - Hibernation doesn't work.
-- CMOS checksum error occurs sometimes but setting is not lost.
+- CMOS checksum error occurs sometimes but setting is not lost. (Changing RTC Length may be helpful)
 
 ## EDID Patching
 [Link](https://github.com/Sniki/Lenovo-Thinkpad-T440) (Patching Display EDID \[WIP\])
